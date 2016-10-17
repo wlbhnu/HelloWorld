@@ -1,0 +1,3 @@
+LicenseMgrApp.exe -c getHardwareID
+LicenseMgrApp.exe -c activateLicense -n <e-mail address> -k <activation-key>
+LicenseMgrApp.exe -c activateLicense -n wlbhnu@163.com -k AZWMW-ZZC3W-3YLHK-75UXD-QTG8J-J5QRF-LJBUQ-Y4CQY-6E2RQ-FRPZD-GK9PC-MERVK
